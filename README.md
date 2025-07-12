@@ -1,4 +1,5 @@
 # Discord Day Summarizer 🌙
+[![Buy me a Coffee](https://buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://buymeacoffee.com/chao.k)
 
 An AI-powered personal tool that generates **professional, scrum-style summaries**
 ### 🖥️ **Desktop GUI (Recommended)**
