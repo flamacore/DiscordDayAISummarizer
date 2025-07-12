@@ -1,11 +1,16 @@
 # Discord Day Summarizer 🌙
 
-An AI-powered personal tool that generates **professional, scrum-style summaries**### 🖥️ **Desktop GUI (Recommended)**
+An AI-powered personal tool that generates **professional, scrum-style summaries**
+### 🖥️ **Desktop GUI (Recommended)**
 
 ```bash
 # Launch the modern Discord-themed interface
 python gui.py
 ```
+Discamler: Mostly AI generated readme with me overseeing it.
+
+<img width="1173" height="784" alt="1QiqnsTmhk" src="https://github.com/user-attachments/assets/993a00e7-5cac-4ff3-8bb1-e8a0140c5044" />
+
 
 **GUI Features:**
 - 🌙 **Discord-style dark theme** with professional styling
