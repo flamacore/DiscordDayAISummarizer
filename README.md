@@ -8,7 +8,28 @@ An AI-powered personal tool that generates **professional, scrum-style summaries
 # Launch the modern Discord-themed interface
 python gui.py
 ```
+
+### 📦 **Standalone Executable (No Python Required)**
+
+**Create a portable executable:**
+```bash
+# Build the executable - automatic dependency installation
+python build_exe.py
+```
+
+**Features:**
+- 🚀 **One-click build** - automatically installs dependencies and builds
+-  **Fully portable** - no Python installation required on target machines  
+- ⚡ **Zero configuration** - just run `build_exe.py` and get your executable
+- � **Optional signing** - auto-signs if Windows SDK is installed (see SIGNING_GUIDE.md)
+- 🛡️ **Works everywhere** - executable runs on any Windows machine
+
+**Output:** `dist/DiscordDaySummarizer.exe` (~32MB) - ready to distribute!
+
+> **Note:** Without code signing, Windows may show security warnings. This is normal for unsigned apps. See `SIGNING_GUIDE.md` for signing setup.
+
 Discamler: Mostly AI generated readme with me overseeing it.
+Another Discamler: tools/signtool.exe is provided by Microsoft. I am including it but is subject to removal if requested. Use download_signtool.ps1 if you need to.
 
 <img width="1173" height="784" alt="1QiqnsTmhk" src="https://github.com/user-attachments/assets/993a00e7-5cac-4ff3-8bb1-e8a0140c5044" />
 
