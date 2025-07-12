@@ -28,8 +28,8 @@ python build_exe.py
 
 > **Note:** Without code signing, Windows may show security warnings. This is normal for unsigned apps. See `SIGNING_GUIDE.md` for signing setup.
 
-Discamler: Mostly AI generated readme with me overseeing it.
-Another Discamler: tools/signtool.exe is provided by Microsoft. I am including it but is subject to removal if requested. Use download_signtool.ps1 if you need to.
+Discamler 1: Mostly AI generated readme with me overseeing it.  
+Discamler 2: tools/signtool.exe is provided by Microsoft. I am including it but is subject to removal if requested. Use download_signtool.ps1 if you need to.
 
 <img width="1173" height="784" alt="1QiqnsTmhk" src="https://github.com/user-attachments/assets/993a00e7-5cac-4ff3-8bb1-e8a0140c5044" />
 
